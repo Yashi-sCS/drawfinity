@@ -7,11 +7,11 @@ import 'package:image_gallery_saver/image_gallery_saver.dart';
 import 'package:path_provider/path_provider.dart';
 
 import 'package:flutter/material.dart' hide Image;
-import 'package:flutter_drawing_board/main.dart';
-import 'package:flutter_drawing_board/view/drawing_canvas/drawing_canvas.dart';
-import 'package:flutter_drawing_board/view/drawing_canvas/models/drawing_mode.dart';
-import 'package:flutter_drawing_board/view/drawing_canvas/models/sketch.dart';
-import 'package:flutter_drawing_board/view/drawing_canvas/widgets/canvas_side_bar.dart';
+import 'package:Drawfinity/main.dart';
+import 'package:Drawfinity/view/drawing_canvas/drawing_canvas.dart';
+import 'package:Drawfinity/view/drawing_canvas/models/drawing_mode.dart';
+import 'package:Drawfinity/view/drawing_canvas/models/sketch.dart';
+import 'package:Drawfinity/view/drawing_canvas/widgets/canvas_side_bar.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 class DrawingPage extends HookWidget {
   const DrawingPage({Key? key}) : super(key: key);

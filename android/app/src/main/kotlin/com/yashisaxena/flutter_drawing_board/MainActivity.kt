@@ -1,4 +1,4 @@
-package com.yashisaxena.flutter_drawing_board
+package com.yashisaxena.Drawfinity
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_drawing_board/view/drawing_page.dart';
+import 'package:Drawfinity/view/drawing_page.dart';
 
 void main() {
   runApp(const MyApp());
 }
 
 const Color kCanvasColor = Color(0xfff2f3f7);
-const String kGithubRepo = 'https://github.com/Yashi-sCS/flutter_drawing_board';
+const String kGithubRepo = 'https://github.com/Yashi-sCS/Drawfinity';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
